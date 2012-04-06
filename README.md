@@ -1,8 +1,4 @@
-#3d tableView#
+#星座大师转盘特效#
 
 
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/1.png)
-
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/2.png)
-
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/3.png)
+![Screenshot](https://github.com/czda1100/--------/blob/raw/1.png)
